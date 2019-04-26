@@ -1,8 +1,8 @@
 name: sample_data
 description: A new Flutter package that generated random sample data to test your application.
 version: 0.0.1
-author:
-homepage:
+author: Bhavk Makwana <ibhavikmakwana@gmail.com>
+homepage: https://github.com/ibhavikmakwana/sample_data
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
