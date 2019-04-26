@@ -3,8 +3,7 @@
 // found in the LICENSE file.
 
 import 'package:flutter/material.dart';
-import 'package:sample_data/avatars.dart';
-import 'package:sample_data/user_name.dart';
+import 'package:sample_data/sample_data.dart';
 
 void main() => runApp(MyApp());
 
