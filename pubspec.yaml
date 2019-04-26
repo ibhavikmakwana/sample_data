@@ -1,0 +1,22 @@
+name: sample_data
+description: A new Flutter package that generated random sample data to test your application.
+version: 0.0.1
+author:
+homepage:
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  assets:
+    - lib/asset/
+    - lib/asset/kids/
