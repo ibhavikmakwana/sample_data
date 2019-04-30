@@ -6,6 +6,8 @@ from www.flaticon.com is licensed by Creative Commons BY 3.0 CC 3.0 BY
 */
 import 'package:sample_data/random_generator.dart';
 
+
+///List of the avatar
 const List<String> avatarList = [
   "asset/boy.png",
   "asset/boy-1.png",
@@ -18,6 +20,7 @@ const List<String> avatarList = [
   "asset/man-4.png",
 ];
 
+///List of the kids avatar
 const List<String> kidsAvatarList = [
   "asset/kids/girl.png",
   "asset/kids/girl-1.png",
@@ -74,6 +77,8 @@ const List<String> kidsAvatarList = [
   "asset/kids/boy-22.png",
 ];
 
+///Generate random avatars from the list
 String avatar() => RandomGenerator().getElement(avatarList);
 
+///Generate random kids avatars from the list
 String kidsAvatar() => RandomGenerator().getElement(kidsAvatarList);

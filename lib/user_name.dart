@@ -1,5 +1,6 @@
 import 'package:sample_data/random_generator.dart';
 
+/// A list of random user name
 const List<String> userNameList = [
   "Vanda Rocchio",
   "Louvenia Towne",
